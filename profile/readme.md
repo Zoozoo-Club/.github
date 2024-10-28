@@ -15,9 +15,9 @@
 - 상품 추천
   - 클럽 혹은 자신의 이익률보다 높은 가입 상품 추천
 
-### 🗪 클럽 끼리 뭉쳐라! 클럽 커뮤니티
-- 커뮤니티
-  - 각 클럽별 커뮤니티와 전체 커뮤니티 하나 제공
+### 🗪 클럽 끼리 뭉쳐라! 클럽 라운지
+- 라운지
+  - 각 클럽별 라운지와 전체 라운지 하나 제공
 - 정보 교환
   - 클럽원들끼리 소통하고 주식에 관한 정보를 교환할 수 있는 소통 창구 마련
 
@@ -39,17 +39,55 @@
 
 ## 예비투자자들을 충성고객으로
 - 클럽 랭킹을 올리기 위해 가입하는 신규 가입자들 확보 가능
-- 게좌를 사용하고 투자에 참여해야 랭킹이 올라, 이벤트성 신규 가입자 확보가 아닌 충성고객 확보 가능
+- 게좌를 사용하고 투자에 참여해야 랭킹이 올라, 이벤트지
 
-## 상품 추천을 통한 수익성 확보
-- 자신 혹은 클럽의 수익률보다 높은 상품을 추천해줌으로써, 기업 상품 가입 유도 가능
-
-# ❤ 프로젝트 주요 기능
-## 커뮤니티
 
 ## 랭킹
+<table style="border: 0.5 solid gray">
+ <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/72cfc1f0-bf3a-4d75-99be-11b584286ad5" width="200px" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/ff6ed9c1-af04-47d2-a55c-1c71dc093367" width="200px" alt=""></td>
+
+  </tr>
+  
+  <tr>
+    <td align="center"><b>클럽 별 랭킹</b></td>
+    <td align="center"style="border-right : 0.5px solid gray"><b>클럽 내 랭킹</b></td>
+  </tr>
+
+</table>
 
 ## 마이 프로필
+
+<table style="border: 0.5 solid gray">
+ <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f73d7a9d-2789-4d38-800f-50a533fcf48a" width="200px" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/d1ae9fdf-cd20-4354-9f03-580819913aa1" width="200px" alt=""></td>
+
+  </tr>
+  
+  <tr>
+    <td align="center"><b>내 포트폴리오</b></td>
+    <td align="center"style="border-right : 0.5px solid gray"><b>내 스토리</b></td>
+  </tr>
+
+</table>
+
+## 라운지
+
+<table style="border: 0.5 solid gray">
+ <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c37b88b5-e347-4356-b0d8-564e5888baed" width="200px" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/70ecef03-2deb-4397-aa54-739458af35611" width="200px" alt=""></td>
+
+  </tr>
+  
+  <tr>
+    <td align="center"><b>모두의 라운지</b></td>
+    <td align="center"style="border-right : 0.5px solid gray"><b>내 클럽 라운지</b></td>
+  </tr>
+
+</table>
 
  # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
@@ -86,7 +124,6 @@
 ## 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/b568e6fc-1f1a-48ab-9bd5-c3a3e03d8298)
 
-
 # 🛠기술 스택
 ## 프론트엔드
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -102,10 +139,11 @@
 
 
 ## 인프라
-
+![NHN](https://img.shields.io/badge/nhn-3465DF?style=for-the-badge&logo=nhn&logoColor=white)
 
 ## 협업
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <br/>
